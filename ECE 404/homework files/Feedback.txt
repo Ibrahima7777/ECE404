@@ -1,0 +1,2 @@
+Grade 5/10
+Logic is mostly correct the nested for loop times out the grader and the outside loop is not needed.
